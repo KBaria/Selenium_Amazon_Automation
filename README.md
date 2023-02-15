@@ -7,17 +7,20 @@ The test data is provided to test methods using DataProvider methods.
 the test data used for valid tests is stored inside validTestDataProperties.properties located [here](https://github.com/KBaria/selenium_amazon_automation/tree/master/src/test/java/com/selenium/amazon_automation/config).
 replace the key and values as per requirements.
 ```
-username=9967599021
-password=Amazon101@
+// amazon credentials
+username=your amazon username
+password=your amazon password
 
-product=mouse
+// product to be searched during ProductTest test methods
+product=product to be searched
 
-fullname=Prithvi Baria
-phone=9967599021
-pincode=400052
-address_line=101, Tarkari Niwas, Madhlapada, Khar Danda, Khar (West)
-city=Mumbai
-state=Maharashtra
+// address to be used during ProductTest test methods
+fullname=your fullname
+phone=your phone
+pincode=your pincode
+address_line=your address
+city=your city
+state=your state
 ```
 
 ### Invalid Test data
