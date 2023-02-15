@@ -8,13 +8,16 @@ the test data used for valid tests is stored inside validTestDataProperties.prop
 replace the key and values as per requirements.
 ```
 // amazon credentials
+
 username=your amazon username
 password=your amazon password
 
 // product to be searched during ProductTest test methods
+
 product=product to be searched
 
 // address to be used during ProductTest test methods
+
 fullname=your fullname
 phone=your phone
 pincode=your pincode
